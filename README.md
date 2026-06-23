@@ -63,9 +63,17 @@ The model successfully:
 * Preserved the architectural structure of the Taj Mahal
 * Transferred textures and colors from the style image
 * Demonstrated the separation of content and style representations
-* | Content | Style | Generated |
-|----------|----------|----------|
-| ![](images/content.jpg) | ![](images/style.jpg) | ![](images/result.jpg) |
+### Content Image
+
+![Content](image/content.jpg)
+
+### Style Image
+
+![Style](image/style.jpg)
+
+### Generated Image
+
+![Generated](image/generated.png)
 
 ---
 
